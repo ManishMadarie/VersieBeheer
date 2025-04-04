@@ -8,4 +8,8 @@ een extra regel
 Extra regel toegevoegd in branch-1.
 Andere regel toegevoegd in branch-2.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ba4163e18bb607987b00e9842a0e67791afac1a
 extra regel opdracht 15
